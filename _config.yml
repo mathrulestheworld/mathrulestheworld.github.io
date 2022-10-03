@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Madhusudhan"
   avatar           : "profile.jpeg"
-  bio              : "PhD student in Computer Science"
-  location         : "Pittsburgh, PA, 15217"
-  employer         : Carnegie Mellon University
+  bio              : "PhD student in Computer Science at Carnegie Mellon University"
+  location         : "Pittsburgh, PA"
+  employer         : "Carnegie Mellon University"
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=dmo4-YMAAAAJ&hl=en"
   email            : "mpittu@andrew.cmu.edu"
