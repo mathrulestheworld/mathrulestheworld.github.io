@@ -4,7 +4,7 @@ collection: publications
 permalink:
 excerpt:
 date: 2023-04-19
-venue: 'To appear at FOCS 2023'
+venue: 'FOCS'
 paperurl: 'https://arxiv.org/abs/2304.09743'
 ---
 
