@@ -4,7 +4,7 @@ collection: publications
 permalink:
 excerpt:
 date: 2023-04-19
-venue: 'FOCS'
+venue: 'IEEE Symposium on Foundations of Computer Science (FOCS)'
 paperurl: 'https://arxiv.org/abs/2304.09743'
 ---
 
