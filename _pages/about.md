@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Computer Science PhD student in the ACO program at Carnegie Mellon University. I am advised by [Anupam Gupta](https://www.cs.cmu.edu/~anupamg/). I received my B.Tech. in Computer Science from Indian institute of Technology (IIT) Kharagpur. I am broadly interested in Theoretical Computer Science. I mainly work on Approximation Algorithms, Combinatorics and Optimization.
+I am a Postdoctoral Associate at the Courant Institute of Mathematical Sciences, New York University, starting September 2025, where I work with [Anupam Gupta](https://www.cs.cmu.edu/~anupamg/).  
 
-In my free time, I contemplate existence or watch movies and anime.  
+I received my Ph.D. in Computer Science from Carnegie Mellon University in the Algorithms, Combinatorics, and Optimization (ACO) program, advised by Anupam Gupta and, during my final year, [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/). Prior to that, I earned my B.Tech. in Computer Science from the Indian Institute of Technology (IIT) Kharagpur.  
 
+My research interests lie broadly in Theoretical Computer Science, with a focus on Approximation Algorithms, Online Algorithms, Combinatorics, and Optimization. I am particularly interested in problems with a geometric flavor.  
 
+Outside of research, I enjoy reflecting on philosophical questions, watching movies.  
+  
 
 
