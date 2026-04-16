@@ -1,12 +1,10 @@
 ---
-layout: archive
-title: "CV"
+layout: page
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: CV
+description:
+nav: true
+nav_order: 3
 ---
 
-{% include base_path %}
-
-Here is a copy of my [CV](https://mathrulestheworld.github.io/files/cv.pdf)
+You can download my CV <a href="/assets/pdf/cv.pdf" target="_blank">here</a>.
