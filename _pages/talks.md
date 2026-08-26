@@ -7,8 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-## Talks and presentations
-
 Confirmed research presentations are listed in reverse chronological order. Conference dates are included only where an official program confirms them.
 
 <ol class="list-unstyled">
