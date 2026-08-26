@@ -33,14 +33,6 @@ if (searchPalette) {
           handler: () => {
             window.location.href = "/talks/";
           },
-        },{
-          id: "nav-professional-service",
-          title: "professional service",
-          description: "peer-review service for theoretical computer science conferences and journals.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/service/";
-          },
         },];
 
   const profileLinks = [
