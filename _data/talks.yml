@@ -1,0 +1,89 @@
+- title: Combinatorial Optimization using Comparison Oracles
+  venue: ACM Symposium on Theory of Computing, STOC 2026
+  date: June 24, 2026
+  sort_date: "2026-06-24"
+  kind: Conference presentation
+  event_url: https://acm-stoc.org/stoc2026/stoc26-program.html
+  event_label: Official program
+
+- title: Geometric Methods for Combinatorial Optimization Using Comparison Oracles
+  venue: NYU Geometry Seminar
+  date: March 10, 2026
+  sort_date: "2026-03-10"
+  kind: Seminar talk
+  event_url: https://math.nyu.edu/dynamic/calendars/seminars/geometry-seminar/4419/
+  event_label: Event page
+  video_url: https://youtu.be/UINJbfNWRZM
+  video_label: Recording
+
+- title: Combinatorial Optimization using Comparison Oracles
+  venue: Yale Theory Student Seminar
+  date: October 24, 2025
+  sort_date: "2025-10-24"
+  kind: Seminar talk
+  event_url: https://yaletheorystudents.github.io/
+  event_label: Seminar page
+
+- title: Max-Cut with Multiple Cardinality Constraints
+  venue: APPROX 2025
+  date: August 12, 2025
+  sort_date: "2025-08-12"
+  kind: Conference presentation
+  event_url: https://sites.google.com/berkeley.edu/approxrandom2025/schedule
+  event_label: Official schedule
+  paper_url: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX/RANDOM.2025.13
+
+- title: Guessing Efficiently for Constrained Subspace Approximation
+  venue: ICALP 2025
+  date: July 10, 2025
+  sort_date: "2025-07-10"
+  kind: Conference presentation
+  event_url: https://conferences.au.dk/fileadmin/conferences/2025/ICALP2025/Full_Programme.pdf
+  event_label: Official program
+  paper_url: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2025.29
+
+- title: The Price of Explainability for Clustering
+  venue: FOCS 2023
+  date: November 7, 2023
+  sort_date: "2023-11-07"
+  kind: Conference presentation
+  event_url: https://focs.computer.org/2023/schedule/
+  event_label: Official program
+  video_url: https://www.dropbox.com/scl/fo/21z3i726j0j3o2wmuutp6/h?dl=0&preview=Session+6B.mov&rlkey=kupk79p7h94tyxrcq9y370fg6
+  video_label: Session recording
+
+- title: The Price of Explainability for Clustering
+  venue: Carnegie Mellon Theory Lunch
+  date: October 25, 2023
+  sort_date: "2023-10-25"
+  kind: Seminar talk
+  event_url: https://www.cs.cmu.edu/~theorylunch/pastSemesterIndices/abstractsHTML/20231025.html
+  event_label: Event page
+
+- title: Efficient Determinant Maximization for All Matroids
+  venue: IISc-MSR/Bangalore Theory Seminar, Indian Institute of Science
+  date: December 23, 2022
+  sort_date: "2022-12-23"
+  kind: Seminar talk
+  event_url: https://www.csa.iisc.ac.in/event/382/efficient-determinant-maximization-for-all-matroids/
+  event_label: Event page
+  video_url: https://www.youtube.com/watch?v=CAWKjGLBBgI
+  video_label: Official recording
+
+- title: A 3-Approximation Algorithm for Maximum Independent Set of Rectangles
+  venue: SODA 2022
+  date: "2022"
+  sort_date: "2022-01-01"
+  kind: Conference presentation
+  event_url: https://epubs.siam.org/doi/10.1137/1.9781611977073.38
+  event_label: Official proceedings
+
+- title: On Guillotine Separability of Squares and Rectangles
+  venue: APPROX/RANDOM 2020
+  date: August 17, 2020
+  sort_date: "2020-08-17"
+  kind: Conference presentation
+  event_url: https://approxconference.wordpress.com/random-approx-2020-schedule/
+  event_label: Official schedule
+  video_url: https://www.youtube.com/watch?v=LDXYeTEZQBU
+  video_label: Recording

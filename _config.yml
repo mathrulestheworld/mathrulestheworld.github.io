@@ -215,7 +215,7 @@ display_categories: []
 
 scholar:
   last_name: [Pittu]
-  first_name: [Madhusudhan, M.]
+  first_name: [Madhusudhan, "Madhusudhan Reddy", M.]
 
   style: apa
   locale: en
