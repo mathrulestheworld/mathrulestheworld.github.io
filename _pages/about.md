@@ -32,7 +32,9 @@ I received my Ph.D. in Computer Science from Carnegie Mellon University in the A
 
 My research interests lie broadly in Theoretical Computer Science, with a focus on Approximation Algorithms, Online Algorithms, Combinatorics, and Optimization. I am particularly interested in problems with a geometric flavor.
 
-My current research also explores AI alignment and generalization. In my ongoing, unpublished Weird Generalization project, I use controlled LLM fine-tuning experiments, gradient analysis, and targeted parameter interventions to study when narrow training changes produce unexpected behavior on other tasks. I am interested in developing reliable AI systems and applying AI to impactful real-world problems.
+I am especially interested in AI research and engineering, with a focus on alignment and generalization. In an ongoing, unpublished project, I study unexpected, broad changes in model behavior arising from narrow fine-tuning. This work involves reproducing phenomena such as emergent misalignment and weird generalization on open-source models, mechanistic probing, and developing mathematical explanations. My goal is to understand and predict these effects, mitigate unwanted behavior, and develop better fine-tuning methods.
+
+More broadly, I am excited to understand and use advances in AI to solve impactful real-world problems. I believe my background in theoretical computer science and mathematics can contribute to this effort.
 
 ### Selected distinctions
 
