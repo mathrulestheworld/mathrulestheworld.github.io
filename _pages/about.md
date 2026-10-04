@@ -32,12 +32,13 @@ I received my Ph.D. in Computer Science from Carnegie Mellon University in the A
 
 My research interests lie broadly in Theoretical Computer Science, with a focus on Approximation Algorithms, Online Algorithms, Combinatorics, and Optimization. I am particularly interested in problems with a geometric flavor.
 
-I am especially interested in AI research and engineering, with a focus on alignment and generalization. In an ongoing, unpublished project, I study unexpected, broad changes in model behavior arising from narrow fine-tuning. This work involves reproducing phenomena such as emergent misalignment and weird generalization on open-source models, mechanistic probing, and developing mathematical explanations. My goal is to understand and predict these effects, mitigate unwanted behavior, and develop better fine-tuning methods.
+I am especially interested in AI research and engineering, with a focus on alignment and generalization. In an ongoing, unpublished project, I study unexpected, broad changes in model behavior arising from narrow fine-tuning. This work involves reproducing phenomena such as emergent misalignment and weird generalization on open-source models, mechanistic probing, and developing mathematical explanations. My goal is to understand and predict these effects, mitigate unwanted behavior, and develop better fine-tuning methods. I have been selected for the Iliad Fellowship (2026) for mathematical research on AI alignment.
 
 More broadly, I am excited to understand and use advances in AI to solve impactful real-world problems. I believe my background in theoretical computer science and mathematics can contribute to this effort.
 
 ### Selected distinctions
 
+- Iliad Fellowship for mathematical research on AI alignment, 2026
 - Bronze Medal representing India at the 57th International Mathematical Olympiad, 2016
 - Infosys Award for excellent performance in International Olympiads, 2016
 - IITKGP Foundation-USA International Internship Award, 2020
